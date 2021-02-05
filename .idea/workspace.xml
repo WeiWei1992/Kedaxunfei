@@ -1,0 +1,645 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4d72f39b-e661-4f45-8b3a-848b48fb8b2e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Android_yuyin_autotool/public/operate_excel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_yuyin_autotool/public/send_email.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chip_yuliao/.idea/Chip_yuliao.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chip_yuliao/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chip_yuliao/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chip_yuliao/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chip_yuliao/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Monkey_test/.idea/Monkey_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Monkey_test/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Monkey_test/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Monkey_test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Monkey_test/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Monkey_test/MonkeyTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lunwen/.idea/lunwen.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lunwen/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lunwen/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lunwen/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lunwen/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lunwen/logic/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yuliao_trans/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yuliao_trans/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yuliao_trans/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yuliao_trans/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yuliao_trans/.idea/yuliao_trans.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yuliao_trans/trans_yuliao.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android_yuyin_autotool/Data_analysis/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android_yuyin_autotool/Data_analysis/pandas_test/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android_yuyin_autotool/base/base_driver.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Android_yuyin_autotool/base/base_driver.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android_yuyin_autotool/my_main/handle_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Android_yuyin_autotool/my_main/handle_main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android_yuyin_autotool/my_main/ui.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Android_yuyin_autotool/my_main/ui.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android_yuyin_autotool/public/handle_log.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Android_yuyin_autotool/public/handle_log.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android_yuyin_autotool/yuliao_chip/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Chip_yuliao/handle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android_yuyin_autotool/yuliao_trans/trans_yuliao.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Voice_Tool/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_17_10_59_11/uai_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_17_11_00_41/uai_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_17_11_02_12/uai_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_17_11_03_42/uai_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_17_11_05_13/uai_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_17_11_06_43/uai_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_20_13_52_36/uai_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_20_13_54_11/uai_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_20_13_55_41/uai_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_20_13_57_11/uai_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_20_13_58_43/uai_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_20_14_00_14/uai_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_20_14_03_51/uai_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_20_14_05_21/uai_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_20_14_15_03/uai_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_20_14_16_32/uai_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_20_14_21_07/uai_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_20_14_22_37/uai_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_20_14_24_06/uai_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_20_14_25_36/uai_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_20_14_31_22/uai_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_20_14_32_52/uai_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_20_14_35_12/uai_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_20_14_36_42/uai_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_20_14_39_36/uai_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_20_14_41_06/uai_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_20_15_27_23/uai_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_20_15_28_53/uai_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_20_15_53_37/uai_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_20_15_55_07/uai_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_20_15_57_06/uai_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_20_15_58_36/uai_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_20_16_00_06/uai_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_20_16_01_36/uai_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_20_16_03_07/uai_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_20_16_04_37/uai_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_20_16_44_50/uai_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_20_16_46_20/uai_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_20_16_58_33/uai_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_20_17_00_19/uai_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_20_17_03_21/uai_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_20_17_04_51/uai_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_20_17_11_07/uai_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_20_17_12_36/uai_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_17_10_59_11.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_17_11_00_41.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_17_11_02_12.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_17_11_03_42.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_17_11_05_13.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_17_11_06_43.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_20_13_52_36.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_20_13_54_11.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_20_13_55_41.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_20_13_57_11.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_20_13_58_43.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_20_14_00_14.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_20_14_03_51.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_20_14_05_21.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_20_14_15_03.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_20_14_16_32.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_20_14_21_07.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_20_14_22_37.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_20_14_24_06.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_20_14_25_36.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_20_14_31_22.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_20_14_32_52.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_20_14_35_12.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_20_14_36_42.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_20_14_39_36.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_20_14_41_06.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_20_15_27_23.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_20_15_28_53.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_20_15_53_37.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_20_15_55_07.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_20_15_57_06.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_20_15_58_36.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_20_16_00_06.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_20_16_01_36.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_20_16_03_07.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_20_16_04_37.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_20_16_44_50.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_20_16_46_20.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_20_16_58_33.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_20_17_00_19.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_20_17_03_21.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_20_17_04_51.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_20_17_11_07.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_20_17_12_36.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Voice_Tool/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Result/Logs/runlog.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Result/result_2020_04_17_10_28_48.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Result/result_2020_04_17_10_58_38.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Result/result_2020_04_17_13_06_36.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Result/result_2020_04_20_16_44_17.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Result/result_2020_04_20_16_58_00.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Result/result_2020_04_20_16_59_46.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Result/result_2020_04_20_17_01_57.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Result/result_2020_04_20_17_02_48.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Result/result_2020_04_20_17_10_34.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/config/log.conf" beforeDir="false" afterPath="$PROJECT_DIR$/../Voice_Tool/config/log.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/file.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Voice_Tool/file.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Voice_Tool/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/operate_excel.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Voice_Tool/operate_excel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/send_email.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Voice_Tool/send_email.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Voice_Tool/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/venv/pyvenv.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/../Voice_Tool/venv/pyvenv.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../click_geidao/click_mygeidao.py" beforeDir="false" afterPath="$PROJECT_DIR$/../click_geidao/click_mygeidao.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-391395649">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="10" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.10" value="6" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.9" value="4" />
+          <entry key="project.opened" value="16" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="12" />
+          <entry key="语录1" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Python" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="4014" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="4014" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yuliao.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40">
+              <caret line="158" column="23" selection-start-line="158" selection-start-column="11" selection-end-line="158" selection-end-column="23" />
+              <folding>
+                <element signature="e#496#512#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my_script/my_send.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1624">
+              <caret line="75" column="67" selection-start-line="75" selection-start-column="59" selection-end-line="75" selection-end-column="67" />
+              <folding>
+                <element signature="e#12#26#0" expanded="true" />
+                <marker date="1603948738693" expanded="true" signature="655:3194" ph="..." />
+                <marker date="1603948738693" expanded="true" signature="3237:3242" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my_script/hand_txt.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1260">
+              <caret line="47" column="14" selection-start-line="47" selection-start-column="14" selection-end-line="47" selection-end-column="14" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+                <marker date="1603947142510" expanded="true" signature="67:72" ph="..." />
+                <marker date="1603947142510" expanded="true" signature="262:434" ph="..." />
+                <marker date="1603947142510" expanded="true" signature="456:856" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my_script/hand_excel.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/handle_excel.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="560">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+                <marker date="1603184744198" expanded="true" signature="84:89" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_pcm.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="56">
+              <caret line="2" column="9" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pcm_to_wav.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1792">
+              <caret line="100" column="4" selection-start-line="100" selection-start-column="4" selection-end-line="100" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python_stream_tts_sdk_v3/python_stream_tts_sdk/tcloud_tts.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+              <folding>
+                <element signature="e#15#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python_stream_tts_sdk_v3/python_stream_tts_sdk/request_util.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2352">
+              <caret line="89" column="14" selection-start-line="89" selection-start-column="14" selection-end-line="89" selection-end-column="14" />
+              <folding>
+                <element signature="e#23#42#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/configparser.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="21588">
+              <caret line="779" column="30" selection-start-line="779" selection-start-column="30" selection-end-line="779" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Scripts/play_pcm.py" />
+        <option value="$PROJECT_DIR$/test_pcm.py" />
+        <option value="$PROJECT_DIR$/handle_excel.py" />
+        <option value="$PROJECT_DIR$/my_script/hand_excel.py" />
+        <option value="$PROJECT_DIR$/my_script/hand_txt.py" />
+        <option value="$PROJECT_DIR$/my_script/my_send.py" />
+        <option value="$PROJECT_DIR$/yuliao.py" />
+        <option value="$PROJECT_DIR$/pcm_to_wav.py" />
+        <option value="$PROJECT_DIR$/python_stream_tts_sdk_v3/python_stream_tts_sdk/request_util.py" />
+        <option value="$PROJECT_DIR$/python_stream_tts_sdk_v3/python_stream_tts_sdk/tcloud_tts.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-61" />
+    <option name="y" value="2" />
+    <option name="width" value="1561" />
+    <option name="height" value="939" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="kedaxunfei" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kedaxunfei" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.tcloud_tts">
+    <configuration name="hand_txt" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="kedaxunfei" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/my_script" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/my_script/hand_txt.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="my_send" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="kedaxunfei" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/my_script" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/my_script/my_send.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pcm_to_wav" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="kedaxunfei" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pcm_to_wav.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tcloud_tts" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="kedaxunfei" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_stream_tts_sdk_v3/python_stream_tts_sdk" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_stream_tts_sdk_v3/python_stream_tts_sdk/tcloud_tts.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="yuliao" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="kedaxunfei" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/yuliao.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.yuliao" />
+      <item itemvalue="Python.pcm_to_wav" />
+      <item itemvalue="Python.my_send" />
+      <item itemvalue="Python.hand_txt" />
+      <item itemvalue="Python.tcloud_tts" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.tcloud_tts" />
+        <item itemvalue="Python.pcm_to_wav" />
+        <item itemvalue="Python.yuliao" />
+        <item itemvalue="Python.my_send" />
+        <item itemvalue="Python.hand_txt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d72f39b-e661-4f45-8b3a-848b48fb8b2e" name="Default Changelist" comment="" />
+      <created>1603175413466</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603175413466</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-61" y="2" width="1561" height="939" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4964706" visible="true" weight="0.22980958" />
+      <window_info id="Structure" order="1" sideWeight="0.5023585" side_tool="true" weight="0.15331928" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3485342" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Scripts/play_pcm.py" />
+    <entry file="file://$PROJECT_DIR$/my_script/语录1">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_script/my_send.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1624">
+          <caret line="75" column="67" selection-start-line="75" selection-start-column="59" selection-end-line="75" selection-end-column="67" />
+          <folding>
+            <element signature="e#12#26#0" expanded="true" />
+            <marker date="1603948738693" expanded="true" signature="655:3194" ph="..." />
+            <marker date="1603948738693" expanded="true" signature="3237:3242" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_script/hand_txt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1260">
+          <caret line="47" column="14" selection-start-line="47" selection-start-column="14" selection-end-line="47" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+            <marker date="1603947142510" expanded="true" signature="67:72" ph="..." />
+            <marker date="1603947142510" expanded="true" signature="262:434" ph="..." />
+            <marker date="1603947142510" expanded="true" signature="456:856" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_script/hand_excel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_pcm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="2" column="9" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_stream_tts_sdk_v3/python_stream_tts_sdk/tcloud_tts.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+          <folding>
+            <element signature="e#15#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_stream_tts_sdk_v3/python_stream_tts_sdk/request_util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2352">
+          <caret line="89" column="14" selection-start-line="89" selection-start-column="14" selection-end-line="89" selection-end-column="14" />
+          <folding>
+            <element signature="e#23#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/configparser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21588">
+          <caret line="779" column="30" selection-start-line="779" selection-start-column="30" selection-end-line="779" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/handle_excel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+            <marker date="1603184744198" expanded="true" signature="84:89" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yuliao.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="158" column="23" selection-start-line="158" selection-start-column="11" selection-end-line="158" selection-end-column="23" />
+          <folding>
+            <element signature="e#496#512#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pcm_to_wav.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1792">
+          <caret line="100" column="4" selection-start-line="100" selection-start-column="4" selection-end-line="100" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
